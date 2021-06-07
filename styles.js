@@ -6,7 +6,7 @@ export default StyleSheet.create({
     flexDirection: "column",
     backgroundColor: "black",
     alignItems: "flex-start",
-    justifyContent: "flex-start", //* Do I need this ?? *// 
+    justifyContent: "flex-start", 
     borderWidth: 10,
     borderStyle: "ridge",
     borderColor: "blue",
@@ -16,7 +16,7 @@ export default StyleSheet.create({
     })
   },
 
-  //* this is the top box
+  
   box: {
     width: 200,
     height: 400,
@@ -29,7 +29,7 @@ export default StyleSheet.create({
     borderColor: "white"
   },
 
-  //* this is the small box
+
   anotherbox: {
     width: 150,
     height: 100,
